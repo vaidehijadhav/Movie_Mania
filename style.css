@@ -100,3 +100,32 @@ header .navbar ul li:hover > ul{
     height: 20px;
     cursor: pointer;
 }
+
+.main .box{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10rem 8%;
+}
+
+.content{
+    color: #FFFAF0;
+    text-align: center;
+}
+
+h1{
+    color: transparent;
+    font-size: 7rem;
+    font-weight: 600;
+    position: relative;
+    display: inline-block;
+    animation: text .5s ease forwards;
+    animation-delay: 1s;
+}
+
+.cont{
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin: 90px 0;
+}
