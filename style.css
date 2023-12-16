@@ -181,3 +181,21 @@ footer{
 .contain a:hover{
     color: #FFFAF0;
 }
+
+@keyframes overlay{
+    50%{
+        width: 100%;
+        left: 0;
+    }
+    100%{
+        left: 100%;
+        width: 0;
+    }
+}
+
+/* This is a CSS animation for the text color change */
+@keyframes text{
+    100%{
+        color: #FFFAF0;
+    }
+}
