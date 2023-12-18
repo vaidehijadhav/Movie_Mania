@@ -34,6 +34,29 @@ section{
     background: linear-gradient(90deg, hsla(240, 3%, 8%, 1) 0%, hsla(209, 57%, 25%, 1) 66%, hsla(209, 62%, 43%, 1) 100%);
     background: -moz-linear-gradient(90deg, hsla(240, 3%, 8%, 1) 0%, hsla(209, 57%, 25%, 1) 66%, hsla(209, 62%, 43%, 1) 100%);
     background: -webkit-linear-gradient(90deg, hsla(240, 3%, 8%, 1) 0%, hsla(209, 57%, 25%, 1) 66%, hsla(209, 62%, 43%, 1) 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#131314", endColorstr="#1C4265", GradientType=1 );
-    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#131314", endColorstr="#1C4265", GradientType=1 ); 
+}
+
+.form{
+    width: 500px;
+    /* padding: 40px; */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: #F0F8FF;
+}
+
+h2{
+    font-size: 32px;
+    font-weight: 750;
+    color: #F0F8FF;
+    text-align: center;
+    padding-bottom: 20px;
+    letter-spacing: 3px;
+}
+
+label{
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
 }
