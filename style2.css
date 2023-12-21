@@ -35,3 +35,23 @@
     /* color: #FFFAF0; */
     border-radius: 10px;
 }
+
+.card_content{
+    /* margin: 20px 0; */
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card_content h3{
+    font-size: 1.3rem;
+    font-weight: 600;
+    letter-spacing: 1.8px;
+    text-align: center;
+    padding-bottom: 15px;
+    color: #100C08;
+}
+
+.card img{
+    border-radius: 10px 0 0 10px;
+}
