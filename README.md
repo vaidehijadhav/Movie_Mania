@@ -24,3 +24,32 @@ cd moviemania
 ```
 3. Open the Website:
 Locate the index.html file and open it in your preferred web browser.
+
+
+### Contribution Guidelines
+We welcome contributions to Movie Mania! Whether you want to add new features, improve existing ones, or fix bugs, here's how you can contribute:
+
+1. Fork the Repository: Click on the "Fork" button in the top-right corner of this repository's page.
+2. Clone Your Fork:
+``` bash
+git clone https://github.com/yourusername/moviemania.git
+```
+3. Create a Branch:
+``` bash
+git checkout -b feature-name
+```
+4. Make Changes: Work on the feature/bug fix.
+5. Commit Changes:
+``` bash
+git commit -m "Description of changes"
+```
+6. Push to Your Fork:
+``` bash
+git push origin feature-name
+```
+7. Submit a Pull Request: Open a pull request from your fork to the main repository.
+
+### Feedback
+If you have any feedback, suggestions, or issues, please feel free to open an issue on this repository or contact us directly.
+
+Happy movie watching!
