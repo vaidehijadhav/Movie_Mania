@@ -8,3 +8,8 @@ Welcome to Movie Mania! This is a website dedicated to providing movie enthusias
 - Search Functionality: Easily search for movies by title, genre, or cast member.
 - User Reviews: Read reviews from other users and share your own thoughts and ratings.
 
+### Technologies Used
+- HTML: Structure of the web pages.
+- CSS: Styling to enhance the user interface and experience.
+- JavaScript: Interactivity and dynamic content.
+
