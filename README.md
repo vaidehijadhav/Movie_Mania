@@ -13,3 +13,8 @@ Welcome to Movie Mania! This is a website dedicated to providing movie enthusias
 - CSS: Styling to enhance the user interface and experience.
 - JavaScript: Interactivity and dynamic content.
 
+### How to Use
+1. Clone the Repository:
+ ``` bash
+git clone https://github.com/yourusername/moviemania.git
+ ```
