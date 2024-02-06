@@ -19,8 +19,8 @@ Welcome to Movie Mania! This is a website dedicated to providing movie enthusias
 git clone https://github.com/yourusername/moviemania.git
  ```
 2. Navigate to the Project Directory:
-   ``` bash
-   cd moviemania
-   ```
+``` bash
+cd moviemania
+```
 3. Open the Website:
 Locate the index.html file and open it in your preferred web browser.
